@@ -47,5 +47,3 @@ The `data_analysis.sql` file contains several SQL statements to retrieve valuabl
 - List all employees in the Sales department, including their employee numbers, last names, and first names.
 - Retrieve each employee in both the Sales and Development departments, including their employee numbers, last names, first names, and department names.
 - Count the frequency of each last name among employees, displaying the counts in descending order.
-
-We hope this database serves as a useful tool for managing employee information efficiently!
